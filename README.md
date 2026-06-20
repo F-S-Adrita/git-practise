@@ -1,11 +1,7 @@
-## Learning Version Control
+# Git Tutorial
 
-##Hellow
+###basic Comands
 
-
-any changes -> git add(preparing for saving) 
-             ->git commit -m "comment" (save)
-            
-at different - making snapshort of your code
-
-v1 -> v2 -> v3
+- git init ( to initialize git in a folder) [git initialoized folder -> repository]
+- git add
+-  git commit -m "commit message"
