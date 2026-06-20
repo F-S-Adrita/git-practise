@@ -10,3 +10,10 @@ import  random
 
 print(math.pi)
 print(random.randint(1.10))
+
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Alice"))
+print(greet("Bob"))
