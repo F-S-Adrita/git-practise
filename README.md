@@ -8,6 +8,6 @@
 
 --------
 
-function - greet -->greeting people
+**function - 'greet()' -->greeting people
 -parameter: name (name of a person)
-
+- parameter : greeting (default value ='hello')
