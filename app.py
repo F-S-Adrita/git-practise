@@ -7,3 +7,6 @@ print("version Control")
 
 import math
 import  random
+
+print(math.pi)
+print(random.randint(1.10))
